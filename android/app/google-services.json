@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145782527526",
+    "project_id": "lpg-agency",
+    "storage_bucket": "lpg-agency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145782527526:android:cf6a4f78d3b58cb184b8e7",
+        "android_client_info": {
+          "package_name": "com.example.lpg_agaency_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145782527526-gb33nt0tnu7tlinf7is3rjooa1nnte4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4FkAwIRAaGjz-tUdYbpQepcL6Em69jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145782527526-gb33nt0tnu7tlinf7is3rjooa1nnte4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
